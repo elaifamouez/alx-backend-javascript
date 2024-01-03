@@ -69,7 +69,7 @@ This project contains tasks for learning to use Promises in ECMAScript 2015 (ES6
 
 + [x] 10. **Await / Async**<br/>[100-await.js](100-await.js) contains a script that meets the following requirements.
   + Import `uploadPhoto` and `createUser` from [utils.js](utils.js).
-  + Export an async function named `asyncUploadUser` that will call the two functions imported above and return an object with the following format:
+  + Export an async function named `asyncUploadUser` that will call the two functions imported above and return an object with  the following format:
     ```js
     {
       photo: response_from_uploadPhoto_function,
